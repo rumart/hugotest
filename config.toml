@@ -22,13 +22,13 @@ canonifyurls = true
 metaDataFormat = "toml"
 
 # Theme to use (located in /themes/THEMENAME/)
-theme = "hugo-bootstrap-premium"
+theme = ["cust-theme","hugo-bootstrap-premium"]
 # Pagination
 paginate = 10
 paginatePath = "page"
 
 # Enable Disqus integration
-disqusShortname = "shortname"
+#disqusShortname = "shortname"
 
 
 [permalinks]
@@ -90,7 +90,7 @@ home = "home"
 
 mailmunchid = "" # Mailmunch site id
 sumomeid = "" # Sumome id
-mathjax = "2.7.1" # cdnjs hosted version; empty string to disable mathjax
+mathjax = "" # cdnjs hosted version; empty string to disable mathjax
 
 # Show a sidebar menu
 showRightSidebar = true
@@ -99,7 +99,7 @@ showRightSidebar = true
 highlight = "default"
 
 # Google Analytics.
-googleAnalytics = "Your Google Analytics tracking code"
+googleAnalytics = ""
 
 # Sidebar social links.
 github = "Myprofile" # Your Github profile ID
