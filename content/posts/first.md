@@ -5,7 +5,8 @@ draft: false
 description: "Post used for testing. To be deleted!"
 
 image: "https://pensive-perlman-5536f7.netlify.com/img/testing.jpg"
-card: "summary_large_image"
+#card: "summary_large_image"
+card: "summary"
 ---
 
 Testing testing testing
