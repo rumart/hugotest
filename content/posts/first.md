@@ -6,9 +6,9 @@ description: "Post used for testing. To be deleted"
 FeaturedImage: "/img/testing.jpg"
 
 twitter:
-card: "summary_large_image"
-#site: "@vninjanet"
-creator: "@RudiMartinsen"
+  card: "summary_large_image"
+  site: "@RudiMartinsen"
+  creator: "@RudiMartinsen"
 ---
 
 Testing testing testing
